@@ -12,6 +12,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 
 [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-jekyll-bookshop-template)
 
+
 ## Features
 
 * Component library for website building
