@@ -1,5 +1,9 @@
 title: Vonge
 
+# GitHub Pages configuration
+url: "https://radhakerasoi.github.io"
+baseurl: ""
+
 plugins:
   - jekyll-bookshop
   - jekyll-sitemap
