@@ -1,1 +1,1 @@
-Sitemap: https://www.radhakerasoi.com/sitemap.xml
+Sitemap: /sitemap.xml
