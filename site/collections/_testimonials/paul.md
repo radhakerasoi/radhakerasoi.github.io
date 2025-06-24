@@ -2,5 +2,5 @@
 name: Paul Wade
 position: Marketing
 image: 'images/client-4.jpg'
-blurb: Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.
+blurb: "The Coastal Indian Seafood Experience was outstanding! Fresh ingredients, perfect spices, and Radha's warm hospitality made it feel like a special celebration. Highly recommend for anyone looking for authentic Indian cuisine."
 ---

@@ -1,11 +1,12 @@
-# Vonge
+# Radha ki Rasoi
 
-Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Radha ki Rasoi is a website for authentic Indian gourmet dining experiences by celebrity chef Radha (Sophia) Bangaru. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
 
-![Vonge template screenshot](_screenshot.png)
+Experience the rich flavors and traditions of Indian cuisine in an intimate, celebrity chef setting. Founded by Radha (Sophia) Bangaru, a celebrated actress from South India, our dining experiences bring authentic Indian cooking to life.
 
-Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
+![Radha ki Rasoi website screenshot](_screenshot.png)
+
+This website was built using the Vonge template by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
 The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Community](https://cloudcannon.com/community/).
@@ -14,21 +15,20 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 
 ## Features
 
-* Component library for website building
-* Fully configurable Website
-* Pre-built pages
-* Pre-styled components
-* Blog
-* Category pages
-* Testimonials
-* Portfolio
+* Authentic Indian dining experiences
+* Celebrity chef background and story
+* Traditional recipes and cooking methods
+* Intimate dining settings
+* Cultural storytelling through food
+* Blog with culinary insights and recipes
+* Contact and reservation system
 * Live editing with [CloudCannon](http://cloudcannon.com/)
 * Optimised for editing in [CloudCannon](http://cloudcannon.com/)
 * Search engine optimisation
 
 ## Develop
 
-Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
+This website was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
 
 Install the dependencies for Bookshop:
 
