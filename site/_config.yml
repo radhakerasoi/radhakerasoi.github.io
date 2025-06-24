@@ -1,9 +1,5 @@
 title: Vonge
 
-# GitHub Pages configuration
-url: "https://www.radhakerasoi.com"
-baseurl: ""
-
 plugins:
   - jekyll-bookshop
   - jekyll-sitemap
@@ -59,7 +55,3 @@ defaults:
 tag_page_dir: tag
 tag_page_layout: tag_page
 tag_permalink_style: /:title
-
-sass:
-  sass_dir: assets
-  style: compressed

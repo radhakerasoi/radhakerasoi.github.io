@@ -1,19 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "4.3.3"
-gem 'csv'
-gem 'base64'
-gem 'stringio'
-gem 'time'
-gem 'date'
-gem 'uri'
-gem 'json'
-gem 'openssl'
-gem 'zlib'
-gem 'fileutils'
-gem 'pathname'
-gem 'tempfile'
-gem 'yaml'
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3"
 
 group :jekyll_plugins do
   gem "jekyll-bookshop", "3.9.0"
