@@ -1,6 +1,6 @@
 # Radha ki Rasoi
 
-Radha ki Rasoi is a website for authentic Indian gourmet dining experiences by celebrity chef Radha (Sophia) Bangaru. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
+Radha ki Rasoi is a website for authentic Indian gourmet dining experiences by celebrity chef Radha (Sophia) Bangaru. 
 
 Experience the rich flavors and traditions of Indian cuisine in an intimate, celebrity chef setting. Founded by Radha (Sophia) Bangaru, a celebrated actress from South India, our dining experiences bring authentic Indian cooking to life.
 
